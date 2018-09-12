@@ -1,3 +1,17 @@
 This is the first content created on bash command.
 
 This will be checked by the GitHub Desktop
+
+Things we need to do
+
+1. Create an update file on start.txt and version them accordingly
+
+2. Create a new folder and file on the rts-repo and version them accordingly
+
+3. create a branch from the master repository
+
+4. from that branch, create a versioning for the files and folders
+
+5. create conflict and document how you fixed them
+
+6. try to figure out how to get those branch and version in the repository
