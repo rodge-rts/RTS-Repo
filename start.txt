@@ -15,3 +15,5 @@ Things we need to do
 5. create conflict and document how you fixed them
 
 6. try to figure out how to get those branch and version in the repository
+
+7. how to solve the same version name
